@@ -32,3 +32,12 @@ list-style-type: none;
 	margin-top: 20px!important;
 	margin-left: 10px;
 }
+
+.telefone-contato {
+	margin-top: -50px;
+	font-size: 18px;
+}
+
+img[title="social-link"] {
+	margin-left: 10px;
+}
